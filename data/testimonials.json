@@ -1,0 +1,29 @@
+[
+  {
+    "id": "testi-1",
+    "clientName": "Dr. Menon",
+    "review": "The Backwater Pavilion feels like an extension of the lagoon itself. The floating teak deck has become our family's absolute sanctuary.",
+    "rating": 5,
+    "clientImage": "/images/parallax_courtyard.jpg",
+    "relatedProject": "proj-1",
+    "featured": true
+  },
+  {
+    "id": "testi-2",
+    "clientName": "Rekha Thomas",
+    "review": "Their respect for traditional Nalukettu courtyard physics transformed our old ancestral property into a breezy, modern homestead.",
+    "rating": 5,
+    "clientImage": "/images/parallax_study.jpg",
+    "relatedProject": "proj-2",
+    "featured": true
+  },
+  {
+    "id": "testi-3",
+    "clientName": "James Mathew",
+    "review": "A minimalist masterpiece. Every line has a purpose, from the local clay tiles to the breeze-sifting wooden grids.",
+    "rating": 5,
+    "clientImage": "/images/parallax_dining.jpg",
+    "relatedProject": "proj-3",
+    "featured": true
+  }
+]

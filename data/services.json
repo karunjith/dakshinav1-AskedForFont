@@ -1,0 +1,32 @@
+[
+  {
+    "id": "serv-1",
+    "title": "Climatic Passive Architecture",
+    "desc": "Maximizing passive cooling. We coordinate window elevations, high ceilings, and adjustable wooden louvers to guide tropical wind currents, keeping interiors comfortable naturally without mechanical AC units.",
+    "bannerImage": "/images/hero_interior.jpg",
+    "gallery": [
+      "/images/hero_interior.jpg"
+    ],
+    "icon": "Wind"
+  },
+  {
+    "id": "serv-2",
+    "title": "Material Responsibility",
+    "desc": "Sourcing textures that age gracefully. We prioritize porous terracotta floor tiles, local rough slate stone, lime plaster coating, and reclaimed teak timber from old razed structures.",
+    "bannerImage": "/images/portfolio_dining.jpg",
+    "gallery": [
+      "/images/portfolio_dining.jpg"
+    ],
+    "icon": "Hammer"
+  },
+  {
+    "id": "serv-3",
+    "title": "Spatial Stillness & Negative Space",
+    "desc": "Curation over decoration. By simplifying hallways, installing concealed built-in storage, and designing custom clean timber furniture, we allow the eye to rest and emphasize natural light drafts.",
+    "bannerImage": "/images/portfolio_office.jpg",
+    "gallery": [
+      "/images/portfolio_office.jpg"
+    ],
+    "icon": "Layout"
+  }
+]

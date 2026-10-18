@@ -1,0 +1,10 @@
+[
+  {
+    "id": "user-1",
+    "username": "admin",
+    "passwordHash": "b85427ba0e52ba5b6883061901f421c6aa724a3cf3a724e07e01485b8bd1fffc",
+    "role": "Super Admin",
+    "email": "dakshinaarchitects@gmail.com",
+    "name": "Dakshina Architects"
+  }
+]

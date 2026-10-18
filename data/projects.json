@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "The Backwater Pavilion",
+    "slug": "backwater-pavilion",
+    "category": "Architecture",
+    "location": "Alappuzha",
+    "year": "2025",
+    "area": "2,850 sq.ft.",
+    "materials": [
+      "Reclaimed Teak",
+      "Local Clay tiles",
+      "Polished Granite"
+    ],
+    "description": "A climate-responsive lakefront residence designed along Alappuzha's coastal channels. It features floating timber decks, pitched clay roof rafters, and sliding louvers that capture lake breezes while shielding extreme monsoon rainfall.",
+    "image": "/images/hero_interior.jpg",
+    "images": [
+      "/images/hero_interior.jpg",
+      "/images/portfolio_dining.jpg",
+      "/images/portfolio_office.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "The Backwater Pavilion | Architectural Design Alappuzha",
+    "metaDescription": "Explore a modern waterfront villa built in traditional Nalukettu physics, blending teak frames and clay roofs."
+  },
+  {
+    "id": 2,
+    "title": "Kuttanad Heritage Modern",
+    "slug": "kuttanad-heritage-modern",
+    "category": "Interior",
+    "location": "Kuttanad",
+    "year": "2026",
+    "area": "3,100 sq.ft.",
+    "materials": [
+      "Handmade clay blocks",
+      "Breathable lime wash",
+      "Brass joinery"
+    ],
+    "description": "An adaptive interior restoration of a heritage Kuttanad courtyard homestead. The layout incorporates elevated stone plinths to adapt to backwater tide rises, central open light wells for air circulation, and solid teak joints.",
+    "image": "/images/portfolio_dining.jpg",
+    "images": [
+      "/images/portfolio_dining.jpg",
+      "/images/portfolio_office.jpg",
+      "/images/slider_after.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Kuttanad Heritage Interior | Kerala Interior Design",
+    "metaDescription": "See how we restored a heritage courtyard interior to be climate-resilient with bespoke teak millwork and lime plaster."
+  },
+  {
+    "id": 3,
+    "title": "Vazhicherry Creative Studio",
+    "slug": "vazhicherry-creative-studio",
+    "category": "Planning",
+    "location": "Alappuzha",
+    "year": "2024",
+    "area": "1,200 sq.ft.",
+    "materials": [
+      "Local teak partitions",
+      "Polished plaster wash",
+      "Basalt floor slabs"
+    ],
+    "description": "A master-planned, light-flooded workspace pavilion designed for a creative studio in Vazhicherry. Built with operable wooden screen grids to provide cross-ventilation overlooking a lily pond.",
+    "image": "/images/portfolio_office.jpg",
+    "images": [
+      "/images/portfolio_office.jpg",
+      "/images/slider_after.jpg",
+      "/images/hero_interior.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Vazhicherry Studio Planning | Site Zoning & Layout",
+    "metaDescription": "An architectural planning and site layout case study for a light-flooded creative studio in Vazhicherry."
+  },
+  {
+    "id": 4,
+    "title": "Alleppey Canal House",
+    "slug": "alleppey-canal-house",
+    "category": "Landscaping",
+    "location": "Alappuzha",
+    "year": "2025",
+    "area": "1,950 sq.ft.",
+    "materials": [
+      "Polished cement screed",
+      "Terracotta masonry",
+      "Oak rafters"
+    ],
+    "description": "A biophilic landscape and architectural renovation of an urban canal-side residence in Alappuzha. Employs brick latticework screens, native flora courtyards, and rainwater retention channels.",
+    "image": "/images/slider_after.jpg",
+    "images": [
+      "/images/slider_after.jpg",
+      "/images/hero_interior.jpg",
+      "/images/portfolio_dining.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Alleppey Canal House | Biophilic Landscape Architecture",
+    "metaDescription": "Discover how canal-side landscape architecture and native planting screens transformed an urban residence in Alappuzha."
+  },
+  {
+    "id": 5,
+    "title": "Vembanad Lake Retreat",
+    "slug": "vembanad-lake-retreat",
+    "category": "Architecture",
+    "location": "Kumarakom",
+    "year": "2025",
+    "area": "3,400 sq.ft.",
+    "materials": [
+      "Laterite Stone Plinths",
+      "Louvered Teak",
+      "Cane Ceilings"
+    ],
+    "description": "A private waterfront retreat oriented strictly toward the monsoon winds of Lake Vembanad. Integrates deep shaded verandahs and traditional timber joinery with contemporary low-energy living.",
+    "image": "/images/hero_interior.jpg",
+    "images": [
+      "/images/hero_interior.jpg",
+      "/images/portfolio_office.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Vembanad Lake Retreat | Waterfront Architecture",
+    "metaDescription": "A serene tropical waterfront sanctuary designed in timber and laterite stone overlooking the backwaters."
+  },
+  {
+    "id": 6,
+    "title": "Marari Courtyard Homestead",
+    "slug": "marari-courtyard-homestead",
+    "category": "Interior",
+    "location": "Mararikulam",
+    "year": "2024",
+    "area": "2,200 sq.ft.",
+    "materials": [
+      "Oxide Floor Screed",
+      "Coconut Wood Beams",
+      "Natural Jute"
+    ],
+    "description": "A peaceful coastal residence designed around a sunken open-air central courtyard. Breathable lime-washed walls and custom wood cabinetry create a serene coastal aesthetic.",
+    "image": "/images/portfolio_dining.jpg",
+    "images": [
+      "/images/portfolio_dining.jpg",
+      "/images/slider_after.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Marari Courtyard Homestead | Coastal Kerala Interior",
+    "metaDescription": "Explore a light-filled coastal home centered around a tranquil interior rainwater light well."
+  },
+  {
+    "id": 7,
+    "title": "Punnamada Water Pavilion",
+    "slug": "punnamada-water-pavilion",
+    "category": "Architecture",
+    "location": "Alappuzha",
+    "year": "2026",
+    "area": "4,100 sq.ft.",
+    "materials": [
+      "Reclaimed Country Brick",
+      "Clay Rafters",
+      "Glass Screens"
+    ],
+    "description": "An iconic modern home overlooking the Punnamada backwaters. Floating cantilevered roofs shade the floor-to-ceiling glass openings, shielding direct tropical solar heat while capturing river reflections.",
+    "image": "/images/slider_after.jpg",
+    "images": [
+      "/images/slider_after.jpg",
+      "/images/hero_interior.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Punnamada Water Pavilion | Backwater Architecture",
+    "metaDescription": "A modern villa capturing panoramic backwater reflections with deep overhangs and passive cooling."
+  },
+  {
+    "id": 8,
+    "title": "Pathiramanal Tropical Gardens",
+    "slug": "pathiramanal-tropical-gardens",
+    "category": "Landscaping",
+    "location": "Muhamma",
+    "year": "2025",
+    "area": "5,800 sq.ft.",
+    "materials": [
+      "Granite Stepping Slabs",
+      "Porous Terracotta",
+      "Rain Channels"
+    ],
+    "description": "Landscape master plan incorporating rainwater retention swales, indigenous backwater flora, and sunken sitting decks that harmoniously merge garden habitats with coastal architecture.",
+    "image": "/images/portfolio_office.jpg",
+    "images": [
+      "/images/portfolio_office.jpg",
+      "/images/portfolio_dining.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Pathiramanal Tropical Gardens | Ecological Landscape Planning",
+    "metaDescription": "A sustainable Kerala garden and courtyard design combining rainwater swales with native coastal flora."
+  },
+  {
+    "id": 9,
+    "title": "Alappuzha Heritage Guildhall",
+    "slug": "alappuzha-heritage-guildhall",
+    "category": "Planning",
+    "location": "Alappuzha",
+    "year": "2024",
+    "area": "2,600 sq.ft.",
+    "materials": [
+      "Heritage Timber",
+      "Exposed Masonry",
+      "Brass Hardware"
+    ],
+    "description": "Urban master plan and adaptive reuse strategy for a historic trading warehouse in the canal quarter. Transformed into an artisan workspace with natural sky-lit corridors.",
+    "image": "/images/hero_interior.jpg",
+    "images": [
+      "/images/hero_interior.jpg",
+      "/images/slider_after.jpg"
+    ],
+    "status": "Published",
+    "featured": true,
+    "metaTitle": "Alappuzha Heritage Guildhall | Urban Adaptive Reuse",
+    "metaDescription": "Master planning and spatial restoration of a heritage canal-side warehouse into a modern artisan collective."
+  }
+]

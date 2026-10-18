@@ -1,0 +1,20 @@
+{
+  "companyName": "DAKSHINA ARCHITECTS",
+  "logo": "/uploads/da12-1785438293653.webp",
+  "phone": "+91 5696523652",
+  "whatsapp": "+91 8459632536",
+  "email": "dakshinaarchitects@gmail.com",
+  "address": "310B Junction, Vazhicherry Ward, Alappuzha, Kerala – 688001",
+  "businessHours": "Monday – Saturday: 9:00 AM – 6:00 PM",
+  "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3936.4385966601614!2d76.32626071478952!3d9.501584293183576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0884d5dfd17887%3A0xe96c4d7ec6a6d65c!2sVazhicherry%20Ward%2C%20Alappuzha%2C%20Kerala%20688001!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin",
+  "instagramUrl": "https://www.instagram.com/dakshina_architects",
+  "pinterestUrl": "https://www.pinterest.com/dakshina_architects",
+  "linkedinUrl": "https://www.linkedin.com/company/dakshina-architects",
+  "telegramEnabled": true,
+  "telegramBotToken": "",
+  "telegramChatId": "",
+  "emailEnabled": true,
+  "resendApiKey": "",
+  "senderEmail": "onboarding@resend.dev",
+  "recipientEmail": "dakshinaarchitects@gmail.com"
+}

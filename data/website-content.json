@@ -1,0 +1,242 @@
+{
+  "home": {
+    "introAnimation": {
+      "enabled": true,
+      "desktop": true,
+      "tablet": true,
+      "mobile": false
+    },
+    "hero": {
+      "enabled": true,
+      "subtitle": "DESIGNING DREAMS",
+      "title1": "dakshina",
+      "title2": "architects",
+      "description": "We design comfortable, climate-friendly houses and buildings across Kerala using natural light, fresh breeze, and quality local materials.",
+      "ctaText": "Start Your Home Project",
+      "ctaLink": "/contact"
+    },
+    "heroCollage": [
+      "/images/hero_carousel_1.jpg",
+      "/images/hero_carousel_2.jpg",
+      "/images/hero_carousel_3.jpg",
+      "/images/hero_carousel_4.jpg",
+      "/images/hero_carousel_5.jpg"
+    ],
+    "philosophy": {
+      "enabled": true,
+      "subtitle": "PHILOSOPHY",
+      "title": "Designing homes with light, air, and natural materials.",
+      "quote": "We design homes that bring in natural light, fresh air, and peaceful green views every day.",
+      "p1": "In Kerala's tropical climate, traditional houses used central open courtyards to let fresh breeze flow through every room, keeping the home cool naturally.",
+      "p2": "At Dakshina Architects, we bring this traditional wisdom into modern homes. We use local clay tiles, natural wood, and lime plaster to build simple, peaceful living spaces.",
+      "p3": "Your home should be your peaceful sanctuary. Our layouts make every room easy to move through, filled with light, and connected to garden greenery.",
+      "ctaText": "Learn About Our Design Process",
+      "ctaLink": "/about"
+    },
+    "creations": {
+      "enabled": true,
+      "subtitle": "OUR SELECTED WORK",
+      "title": "Our Featured Projects"
+    },
+    "manifesto": {
+      "enabled": true,
+      "subtitle": "MANIFESTO",
+      "title": "Houses built with natural light, fresh air, and quality wood",
+      "description": "Our designs work naturally with Alappuzha's coastal wind and climate. By combining strong modern construction with traditional open courtyards, we build houses that stay comfortable all year round."
+    },
+    "parallaxGallery": {
+      "enabled": true,
+      "images": [
+        "/images/parallax_courtyard.jpg",
+        "/images/parallax_study.jpg",
+        "/images/parallax_dining.jpg",
+        "/images/parallax_lounge.jpg",
+        "/images/parallax_verandah.jpg",
+        "/images/parallax_kitchen.jpg",
+        "/images/parallax_staircase.jpg",
+        "/images/parallax_bathroom.jpg",
+        "/images/parallax_door.jpg",
+        "/images/parallax_screen.jpg",
+        "/images/parallax_facade.jpg",
+        "/images/parallax_details.jpg"
+      ]
+    },
+    "process": {
+      "enabled": true,
+      "subtitle": "HOW WE TRANSFORM SPACES",
+      "title": "Before & After",
+      "description": "Drag the slider to see how we turn raw brick and concrete into completed, beautiful living spaces.",
+      "beforeImage": "/uploads/Gemini_Generated_Image_11ty2111ty2111ty-1785389173395.webp",
+      "afterImage": "/uploads/e1e92138b58abc7d955b47231b215b36-1785389180815.webp"
+    },
+    "testimonials": {
+      "enabled": true,
+      "subtitle": "WHAT OUR CLIENTS SAY",
+      "title": "Client Testimonials"
+    },
+    "coordinates": {
+      "enabled": true,
+      "subtitle": "OUR STUDIO LOCATION & ADDRESS",
+      "title": "Visit Our Design Studio.",
+      "address": "310B Junction, Vazhicherry Ward, Alappuzha, Kerala – 688001",
+      "phone": "+91 5696523652",
+      "email": "dakshinaarchitects@gmail.com",
+      "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3936.4385966601614!2d76.32626071478952!3d9.501584293183576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0884d5dfd17887%3A0xe96c4d7ec6a6d65c!2sVazhicherry%20Ward%2C%20Alappuzha%2C%20Kerala%20688001!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin",
+      "whatsapp": "+91 8459632536"
+    }
+  },
+  "services": {
+    "hero": {
+      "enabled": true,
+      "subtitle": "DAKSHINA ARCHITECTS • OUR SERVICES",
+      "title": "Services We Offer For Your Project.",
+      "description": "We design comfortable, climate-friendly houses and buildings across Kerala using natural light, fresh breeze, and quality local materials."
+    },
+    "pillars": {
+      "enabled": true,
+      "item0": {
+        "enabled": true,
+        "num": "01",
+        "tag": "FULL BUILD",
+        "title": "House & Building Design",
+        "description": "Complete architectural design for new homes, villas, and modern residential buildings across Kerala. Custom layouts engineered for tropical cross-ventilation, rainwater harvesting, and solar protection.",
+        "image": "/images/hero_interior.jpg",
+        "scope": [
+          "Complete Architectural Floor Plans & Elevations",
+          "3D Exterior Photorealistic Renderings",
+          "Panchayat / Municipality Building Permit Drawings",
+          "Structural Engineering & Foundation Specifications"
+        ]
+      },
+      "item1": {
+        "enabled": true,
+        "num": "02",
+        "tag": "HERITAGE",
+        "title": "Interior Design",
+        "description": "Thoughtful interior spatial curation with custom teak woodwork, ambient warm lighting, breathable lime plaster finishes, and space-optimizing storage solutions.",
+        "image": "/images/portfolio_dining.jpg",
+        "scope": [
+          "Custom Teak Woodwork & Built-in Joinery",
+          "Lighting & Electrical Fixture Layouts",
+          "Modular Kitchen & Wardrobe Execution Plans",
+          "Color Palette & Breathable Material Curation"
+        ]
+      },
+      "item2": {
+        "enabled": true,
+        "num": "03",
+        "tag": "INTERIORS",
+        "title": "Land Planning",
+        "description": "Strategic plot zoning, contour analysis, and site layout planning that maximizes natural wind directions, sun paths, privacy buffers, and open garden space.",
+        "image": "/images/portfolio_office.jpg",
+        "scope": [
+          "Plot Orientation & Microclimate Analysis",
+          "Rainwater Management & Ground Recharge Layouts",
+          "Access Road, Driveway & Carport Positioning",
+          "Boundary Wall & Entry Gate Architecture"
+        ]
+      },
+      "item3": {
+        "enabled": true,
+        "num": "04",
+        "tag": "OUTDOORS",
+        "title": "Garden & Courtyard",
+        "description": "Integrated outdoor landscape architecture including traditional open inner courtyards (Nalukettu lightwells), lotus ponds, verandah gardens, and stone walkways.",
+        "image": "/images/slider_after.jpg",
+        "scope": [
+          "Central Open Lightwell Courtyard Curation",
+          "Native Kerala Plant & Shadow Tree Selection",
+          "Lotus Pond & Natural Water Element Design",
+          "Paved Walkways, Decks & Verandah Seating"
+        ]
+      }
+    },
+    "workflow": {
+      "enabled": true,
+      "subtitle": "OUR STEP-BY-STEP WORKFLOW",
+      "title": "How We Work With You",
+      "description": "A transparent 4-stage architectural journey ensuring your project is completed on time and within budget.",
+      "phase1Num": "01",
+      "phase1Code": "DISCOVERY",
+      "phase1Title": "Initial Consultation & Site Assessment",
+      "phase1Desc": "We inspect your plot in person or review your site survey, discuss your budget, timeline, room requirements, and lifestyle needs.",
+      "phase2Num": "02",
+      "phase2Code": "CONCEPT",
+      "phase2Title": "Architectural Plan & 3D Design",
+      "phase2Desc": "We draft 2D floor plans and 3D exterior elevations optimized for Kerala's sun path, wind flow, and courtyard breezes.",
+      "phase3Num": "03",
+      "phase3Code": "APPROVAL",
+      "phase3Title": "Permits & Structural Drawings",
+      "phase3Desc": "We prepare official sanction drawings for local Kerala Panchayat / Municipal approval and finalize structural engineering details.",
+      "phase4Num": "04",
+      "phase4Code": "EXECUTION",
+      "phase4Title": "Site Supervision & Construction Support",
+      "phase4Desc": "We conduct site visits during key construction stages to ensure quality craftsmanship, correct material finish, and accurate execution."
+    },
+    "feasibility": {
+      "enabled": true,
+      "subtitle": "PROJECT FEASIBILITY & ESTIMATES",
+      "title": "Plan Your Architectural Timeline & Scope",
+      "description": "Select your intended project scope below to inspect estimated construction timelines, key architectural deliverables, and local Kerala municipal support."
+    },
+    "cta": {
+      "enabled": true,
+      "subtitle": "START YOUR PROJECT WITH US",
+      "title": "Ready to build your new home?",
+      "description": "Contact our design studio in Alappuzha to discuss your land plans, home design, or commercial project.",
+      "buttonText": "Contact Our Studio",
+      "buttonLink": "/contact"
+    }
+  },
+  "about": {
+    "hero": {
+      "enabled": true,
+      "subtitle": "DAKSHINA ARCHITECTS",
+      "title": "About Dakshina Architects",
+      "description": "We build thoughtful, climate-friendly homes designed around nature, comfort, and local materials."
+    },
+    "philosophy": {
+      "enabled": true,
+      "quote": "We design homes that bring in natural light, fresh air, and peaceful green views every day.",
+      "p1": "Traditional houses in Kerala were built to handle heavy rain and hot sun. Builders created open inner courtyards and raised stone floors so air could move freely through every room.",
+      "p2": "At Dakshina Architects, we adapt this smart traditional design to modern homes. We focus on clean layouts, warm teak wood, natural clay tiles, and breathable wall finishes.",
+      "p3": "Your home should be your peaceful sanctuary. Our layouts make every room easy to move through, filled with light, and connected to garden greenery."
+    },
+    "pillars": {
+      "enabled": false,
+      "subtitle": "DESIGN PRINCIPLES",
+      "title": "Our 3 Design Rules",
+      "p1Tag": "01 // NATURAL AIRFLOW",
+      "p1Title": "Climate & Airflow",
+      "p1Desc": "Block harsh direct sun and catch natural breezes. We position windows and high roofs so your house stays cool naturally without running heavy AC all day.",
+      "p2Tag": "02 // NATURAL MATERIALS",
+      "p2Title": "Local Quality Materials",
+      "p2Desc": "Using materials that last for generations: natural clay roof tiles, local granite stone, lime plaster wall finishes, and solid teak wood.",
+      "p3Tag": "03 // CLEAN LAYOUTS",
+      "p3Title": "Spacious & Uncluttered Rooms",
+      "p3Desc": "Simple, beautiful layouts with built-in storage and open spaces that make living calm, orderly, and comfortable."
+    },
+    "masonry": {
+      "enabled": false,
+      "subtitle": "LOCAL CRAFTSMANSHIP",
+      "title": "Local Artisans & Craftsmen",
+      "p1": "Every home built by Dakshina Architects is crafted in partnership with skilled local masons, carpenters, and wood artisans across Kerala.",
+      "p2": "By working directly with local craftsmen, we support traditional woodworking and stone skills while ensuring your home is built with top-quality custom finish."
+    }
+  },
+  "projects": {
+    "hero": {
+      "enabled": true,
+      "subtitle": "SELECTED ARCHITECTURAL WORKS",
+      "title": "Our Portfolio of Homes & Buildings",
+      "description": "Explore completed villas, modern Nalukettu restorations, and custom interior curation across Kerala."
+    }
+  },
+  "contact": {
+    "hero": {
+      "enabled": true,
+      "subtitle": "INQUIRY PORTAL",
+      "title": "Start a Build."
+    }
+  }
+}

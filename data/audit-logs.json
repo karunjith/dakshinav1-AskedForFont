@@ -1,0 +1,834 @@
+[
+  {
+    "id": "log-init",
+    "timestamp": "2026-07-12T17:28:13.961Z",
+    "user": "System",
+    "action": "Database Seeding",
+    "target": "System Initialisation",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783877674626-0e7qk",
+    "timestamp": "2026-07-12T17:34:34.626Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783877683746-ek43y",
+    "timestamp": "2026-07-12T17:34:43.746Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783877692797-sivvk",
+    "timestamp": "2026-07-12T17:34:52.797Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783877728537-4tzw1",
+    "timestamp": "2026-07-12T17:35:28.537Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783878060798-qgb1h",
+    "timestamp": "2026-07-12T17:41:00.798Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783878121144-y0muk",
+    "timestamp": "2026-07-12T17:42:01.144Z",
+    "user": "admin",
+    "action": "Manual Database Export",
+    "target": "Backups Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783917883779-qurzo",
+    "timestamp": "2026-07-13T04:44:43.779Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783918095169-1ni9r",
+    "timestamp": "2026-07-13T04:48:15.169Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783930121386-x1pms",
+    "timestamp": "2026-07-13T08:08:41.386Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: teteter-1783930121355.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783930125404-nv8q4",
+    "timestamp": "2026-07-13T08:08:45.404Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1783930137354-vcjtk",
+    "timestamp": "2026-07-13T08:08:57.354Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784012871819-u5nre",
+    "timestamp": "2026-07-14T07:07:51.819Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784013339024-g48b4",
+    "timestamp": "2026-07-14T07:15:39.024Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784013365466-72yms",
+    "timestamp": "2026-07-14T07:16:05.466Z",
+    "user": "admin",
+    "action": "Modify Lead Status",
+    "target": "Lead ID: lead-1784012741519-oj92z (Contacted)",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784013369341-wuuv5",
+    "timestamp": "2026-07-14T07:16:09.341Z",
+    "user": "admin",
+    "action": "Modify Lead Status",
+    "target": "Lead ID: lead-1784012741519-oj92z (Lost)",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784013372626-5vvnp",
+    "timestamp": "2026-07-14T07:16:12.626Z",
+    "user": "admin",
+    "action": "Modify Lead Status",
+    "target": "Lead ID: lead-1784012741519-oj92z (Won)",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014401935-hmx65",
+    "timestamp": "2026-07-14T07:33:21.935Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014403440-ni54b",
+    "timestamp": "2026-07-14T07:33:23.440Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014412092-07mxj",
+    "timestamp": "2026-07-14T07:33:32.092Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014412717-241wi",
+    "timestamp": "2026-07-14T07:33:32.717Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014423038-uwp6m",
+    "timestamp": "2026-07-14T07:33:43.038Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014581157-fk4i7",
+    "timestamp": "2026-07-14T07:36:21.157Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014680255-n19qz",
+    "timestamp": "2026-07-14T07:38:00.256Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014681317-vw02i",
+    "timestamp": "2026-07-14T07:38:01.317Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014682003-xvlso",
+    "timestamp": "2026-07-14T07:38:02.003Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014685833-092l9",
+    "timestamp": "2026-07-14T07:38:05.833Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784014687948-aegq3",
+    "timestamp": "2026-07-14T07:38:07.948Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108018661-kqqbs",
+    "timestamp": "2026-07-15T09:33:38.661Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108047826-8kbvz",
+    "timestamp": "2026-07-15T09:34:07.826Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108071056-g7e9k",
+    "timestamp": "2026-07-15T09:34:31.056Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108162238-ti4og",
+    "timestamp": "2026-07-15T09:36:02.238Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784107324597-r1pyo",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108164012-rkwzu",
+    "timestamp": "2026-07-15T09:36:04.012Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784015569325-szumg",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108165523-btiku",
+    "timestamp": "2026-07-15T09:36:05.523Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014996314-33a54",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108166271-vazfl",
+    "timestamp": "2026-07-15T09:36:06.271Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014762891-w1511",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108167780-05vcw",
+    "timestamp": "2026-07-15T09:36:07.780Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014701968-snazs",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108168695-itzpw",
+    "timestamp": "2026-07-15T09:36:08.695Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014701968-snazs",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108169853-dqnvf",
+    "timestamp": "2026-07-15T09:36:09.853Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014433157-xp9hm",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108170947-0kiso",
+    "timestamp": "2026-07-15T09:36:10.947Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784014430856-tv5ik",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784108172644-iaw2z",
+    "timestamp": "2026-07-15T09:36:12.644Z",
+    "user": "admin",
+    "action": "Delete Lead Record",
+    "target": "Lead ID: lead-1784012741519-oj92z",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114578394-w56zs",
+    "timestamp": "2026-07-15T11:22:58.394Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: logoipsum-421-1784114578353.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114581007-10w1l",
+    "timestamp": "2026-07-15T11:23:01.007Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114582931-9tmf1",
+    "timestamp": "2026-07-15T11:23:02.931Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114627777-421rc",
+    "timestamp": "2026-07-15T11:23:47.777Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: logoipsum-348-1784114627754.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114629582-bd1aw",
+    "timestamp": "2026-07-15T11:23:49.582Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784114631104-00qxc",
+    "timestamp": "2026-07-15T11:23:51.104Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116271456-9fkub",
+    "timestamp": "2026-07-15T11:51:11.456Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: e1e92138b58abc7d955b47231b215b36-1784116271422.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116289968-uzssa",
+    "timestamp": "2026-07-15T11:51:29.968Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: e1e92138b58abc7d955b47231b215b36-1784116281224.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116385765-ursla",
+    "timestamp": "2026-07-15T11:53:05.765Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: e1e92138b58abc7d955b47231b215b36-1784116385742.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116780774-zakyc",
+    "timestamp": "2026-07-15T11:59:40.774Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: Gemini_Generated_Image_11ty2111ty2111ty-1784116780717.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116783688-ejyub",
+    "timestamp": "2026-07-15T11:59:43.688Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: e1e92138b58abc7d955b47231b215b36-1784116783668.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116786018-yvthc",
+    "timestamp": "2026-07-15T11:59:46.018Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784116789037-rcfrg",
+    "timestamp": "2026-07-15T11:59:49.037Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1784313124853-i3qkr",
+    "timestamp": "2026-07-17T18:32:04.853Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785086868474-t263b",
+    "timestamp": "2026-07-26T17:27:48.474Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Aura Design",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785087573281-el9hd",
+    "timestamp": "2026-07-26T17:39:33.281Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: da12-1785087573253.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785087576354-p7vsh",
+    "timestamp": "2026-07-26T17:39:36.354Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785385810433-h0518",
+    "timestamp": "2026-07-30T04:30:10.433Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785386306879-vdbxd",
+    "timestamp": "2026-07-30T04:38:26.879Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785386317870-93oqa",
+    "timestamp": "2026-07-30T04:38:37.870Z",
+    "user": "admin",
+    "action": "Modify Lead Status",
+    "target": "Lead ID: lead-1785344928945-caygu (New)",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387040391-t41cg",
+    "timestamp": "2026-07-30T04:50:40.391Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387059456-4llme",
+    "timestamp": "2026-07-30T04:50:59.456Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387121845-hrtnd",
+    "timestamp": "2026-07-30T04:52:01.845Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387142637-aumqt",
+    "timestamp": "2026-07-30T04:52:22.637Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387159317-0ptld",
+    "timestamp": "2026-07-30T04:52:39.317Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387183199-kxsxf",
+    "timestamp": "2026-07-30T04:53:03.199Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387212961-ax8dk",
+    "timestamp": "2026-07-30T04:53:32.961Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387242171-yplxm",
+    "timestamp": "2026-07-30T04:54:02.171Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387253706-0lubl",
+    "timestamp": "2026-07-30T04:54:13.706Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785387343072-w4k22",
+    "timestamp": "2026-07-30T04:55:43.072Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785389062043-5bggl",
+    "timestamp": "2026-07-30T05:24:22.043Z",
+    "user": "admin",
+    "action": "Bulk Delete Leads",
+    "target": "Deleted Lead IDs count: 1",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785389173434-i5d7m",
+    "timestamp": "2026-07-30T05:26:13.434Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: Gemini_Generated_Image_11ty2111ty2111ty-1785389173395.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785389180841-0gxha",
+    "timestamp": "2026-07-30T05:26:20.841Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: e1e92138b58abc7d955b47231b215b36-1785389180815.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785389182817-a1vji",
+    "timestamp": "2026-07-30T05:26:22.817Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785389306480-be8qv",
+    "timestamp": "2026-07-30T05:28:26.480Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420808860-reh4i",
+    "timestamp": "2026-07-30T14:13:28.860Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420826507-n0zac",
+    "timestamp": "2026-07-30T14:13:46.507Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420847989-uyitv",
+    "timestamp": "2026-07-30T14:14:07.989Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420862510-paezc",
+    "timestamp": "2026-07-30T14:14:22.510Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420865016-widmv",
+    "timestamp": "2026-07-30T14:14:25.016Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785420872068-j720b",
+    "timestamp": "2026-07-30T14:14:32.068Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785429693280-2sanf",
+    "timestamp": "2026-07-30T16:41:33.280Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785435048427-cxwbe",
+    "timestamp": "2026-07-30T18:10:48.427Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785435048953-y9aoj",
+    "timestamp": "2026-07-30T18:10:48.953Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785435290618-ztsi0",
+    "timestamp": "2026-07-30T18:14:50.618Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785435302551-a465t",
+    "timestamp": "2026-07-30T18:15:02.551Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785435309852-qdlq9",
+    "timestamp": "2026-07-30T18:15:09.852Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785437979031-51bmf",
+    "timestamp": "2026-07-30T18:59:39.031Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785437979249-3av6n",
+    "timestamp": "2026-07-30T18:59:39.249Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785437987197-ie520",
+    "timestamp": "2026-07-30T18:59:47.197Z",
+    "user": "admin",
+    "action": "Bulk Delete Leads",
+    "target": "Deleted Lead IDs count: 1",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785438293677-u8s6r",
+    "timestamp": "2026-07-30T19:04:53.677Z",
+    "user": "admin",
+    "action": "Upload Media File",
+    "target": "File: da12-1785438293653.webp",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785438296464-mp2jb",
+    "timestamp": "2026-07-30T19:04:56.464Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1785438296681-hhu6n",
+    "timestamp": "2026-07-30T19:04:56.681Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1786373243436-xx0gj",
+    "timestamp": "2026-08-10T14:47:23.436Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1786373254564-goep8",
+    "timestamp": "2026-08-10T14:47:34.564Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1786373260185-bmbcf",
+    "timestamp": "2026-08-10T14:47:40.185Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297534585-2udjg",
+    "timestamp": "2026-10-18T04:25:34.585Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297537809-itze6",
+    "timestamp": "2026-10-18T04:25:37.809Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297542835-fygh2",
+    "timestamp": "2026-10-18T04:25:42.835Z",
+    "user": "admin",
+    "action": "Failed Login Attempt",
+    "target": "User: admin",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297547289-6ym7a",
+    "timestamp": "2026-10-18T04:25:47.289Z",
+    "user": "admin",
+    "action": "Successful Login",
+    "target": "User: Dakshina Architects",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297586508-4xleo",
+    "timestamp": "2026-10-18T04:26:26.508Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792297586771-6utrm",
+    "timestamp": "2026-10-18T04:26:26.771Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792298026839-10b2v",
+    "timestamp": "2026-10-18T04:33:46.839Z",
+    "user": "admin",
+    "action": "Update Website Content",
+    "target": "Updated page-by-page texts and layout settings",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1792298027086-29d7r",
+    "timestamp": "2026-10-18T04:33:47.086Z",
+    "user": "admin",
+    "action": "Modify Business Settings",
+    "target": "Settings Portal",
+    "ipAddress": "127.0.0.1"
+  }
+]
